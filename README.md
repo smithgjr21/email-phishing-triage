@@ -80,3 +80,10 @@ The investigation demonstrated a repeatable process for parsing email evidence, 
 The analysis identified two review indicators. However, these findings do not independently establish that the message is phishing or that its sender is malicious.
 
 **Limitations:** This project uses fictional training data. The tool does not independently validate sender identity, authenticate email delivery, determine URL reputation, or establish malicious intent.
+
+
+## Automated Test Evidence
+
+The following screenshot documents the successful execution of the Python unit test.
+
+![Email forensic test passed](screenshots/email-test-passed.jpg)
